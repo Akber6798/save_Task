@@ -1,6 +1,6 @@
 # save_task
 
-A new Flutter project.
+It is a note app using sqflite as a database and firbase authentication for authentication. It is fully functionaly app
 
 ## Getting Started
 
